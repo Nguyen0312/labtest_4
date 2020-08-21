@@ -1,0 +1,7 @@
+language: python
+os:
+  - linux
+dist: trusty
+jdk:
+  -openjdk10
+  -openjdk11
